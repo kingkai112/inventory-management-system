@@ -20,10 +20,7 @@ This system allows a company to **buy, restock, and manage products** (mainly be
 ## 🛠️ Tech Stack
 - **Language**: Python 3    
 
----
+## to run code 
+python main.py
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/beauty-inventory-system.git
-   cd beauty-inventory-system
+
