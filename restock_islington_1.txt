@@ -1,0 +1,9 @@
+WeCare Beauty Store - Transaction Invoice
+Customer: islington
+Type: Restock
+--------------------------------------------------
+Product             Qty       Cost      Amount
+Skin Cleanser       5         280       1400
+Sunscreen           2         700       1400
+--------------------------------------------------
+Total: Rs.2800

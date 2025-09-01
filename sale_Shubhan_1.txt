@@ -1,0 +1,9 @@
+WeCare Beauty Store - Transaction Invoice
+Customer: Shubhan
+Type: Sale
+--------------------------------------------------
+Product             Qty       Free      Amount
+Vitamin C Serum     1         0         2000
+Skin Cleanser       5         1         2800
+--------------------------------------------------
+Total: Rs.4800
