@@ -18,8 +18,7 @@ This system allows a company to **buy, restock, and manage products** (mainly be
 ---
 
 ## 🛠️ Tech Stack
-- **Language**: Python 3  
-- **Modules**: `json` / `csv` (if used), `os`, etc.  
+- **Language**: Python 3    
 
 ---
 
